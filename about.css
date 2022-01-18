@@ -1,0 +1,8 @@
+.section-container a{
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+}
+.section-container a:hover{
+    color: grey;
+}
